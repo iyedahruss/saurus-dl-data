@@ -1,0 +1,10 @@
+{
+  "name": "Scripts",
+  "slug": "scripts",
+  "description": "Koleksi script bot & automation",
+  "icon": "Code2",
+  "color": "cyan",
+  "order": 0,
+  "createdAt": "2026-01-01T00:00:00.000Z",
+  "updatedAt": "2026-01-01T00:00:00.000Z"
+}

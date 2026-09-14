@@ -1,0 +1,31 @@
+{
+  "name": "Alya Md v13",
+  "slug": "alya-md-v13",
+  "description": "node wajib 22+ ygy",
+  "categorySlug": "scripts",
+  "youtube": {
+    "url": "https://youtu.be/--PaavhLD1M",
+    "videoId": "--PaavhLD1M",
+    "title": "𝗦𝗖𝗥𝗜𝗣𝗧 𝗕𝗢𝗧 𝗪𝗔 𝗧𝗘𝗥𝗕𝗔𝗥𝗨 𝗔𝗟𝗬𝗔 𝗠𝗗 𝗩𝟭𝟯 𝗠𝗗 𝗫 𝗕𝗨𝗚?? | 𝗙𝗜𝗧𝗨𝗥 𝟯𝟬𝟬+ 𝗡𝗢 𝗘𝗡𝗖𝗥𝗬𝗣𝗧",
+    "channel": "𝙎𝙖𝙪𝙧𝙪𝙨 𝙔𝙏",
+    "thumbnail": "https://img.youtube.com/vi/--PaavhLD1M/maxresdefault.jpg",
+    "publishedAt": "2026-09-14T09:32:42.650Z",
+    "duration": "",
+    "viewCount": ""
+  },
+  "script": {
+    "type": "github",
+    "path": "uploads/alyamd_v13.zip",
+    "externalDownload": "",
+    "size": 0
+  },
+  "pricing": "free",
+  "termux": "unknown",
+  "encryption": {
+    "status": "no",
+    "percentage": null
+  },
+  "customThumbnail": "",
+  "createdAt": "2026-09-14T09:32:45.373Z",
+  "updatedAt": "2026-09-14T09:32:45.373Z"
+}
