@@ -1,0 +1,31 @@
+{
+  "name": "Yurokumd v1",
+  "slug": "yurokumd-v1",
+  "description": "NODEJS WAJIB 20+\nSUPPORT TERMUX\nNO ENC 80% INDEX ENC\nJANGAN LU RENAME TERUS HAPUS CREDIT BAJINGAN INI SC FREE",
+  "categorySlug": "scripts",
+  "youtube": {
+    "url": "https://youtu.be/4XbsxvwPArI?si=UuZMt-LB5w2f5CMq",
+    "videoId": "4XbsxvwPArI",
+    "title": "SCRIPT BOT WA 2026 TERBARU YUROKU MD V1 | SCRIPT BOTWA MULTIDEVICE",
+    "channel": "𝙎𝙖𝙪𝙧𝙪𝙨 𝙔𝙏",
+    "thumbnail": "https://img.youtube.com/vi/4XbsxvwPArI/maxresdefault.jpg",
+    "publishedAt": "2026-09-18T09:11:59.706Z",
+    "duration": "",
+    "viewCount": ""
+  },
+  "script": {
+    "type": "github",
+    "path": "",
+    "externalDownload": "",
+    "size": 0
+  },
+  "pricing": "free",
+  "termux": "yes",
+  "encryption": {
+    "status": "yes",
+    "percentage": 80
+  },
+  "customThumbnail": "",
+  "createdAt": "2026-09-18T09:12:05.634Z",
+  "updatedAt": "2026-09-18T09:12:05.634Z"
+}
