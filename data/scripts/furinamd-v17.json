@@ -15,7 +15,7 @@
   },
   "script": {
     "type": "github",
-    "path": "",
+    "path": "uploads/FURINA-V17.zip",
     "externalDownload": "",
     "size": 0
   },
@@ -27,5 +27,5 @@
   },
   "customThumbnail": "",
   "createdAt": "2026-09-19T07:33:39.974Z",
-  "updatedAt": "2026-09-19T07:33:39.974Z"
+  "updatedAt": "2026-09-19T07:39:08.690Z"
 }
