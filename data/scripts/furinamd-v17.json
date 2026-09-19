@@ -1,0 +1,31 @@
+{
+  "name": "furinamd-v17",
+  "slug": "furinamd-v17",
+  "description": "NODE WAJIB 22+\nGATAU SUPPORT TERMUX/KAGA",
+  "categorySlug": "scripts",
+  "youtube": {
+    "url": "https://youtu.be/DEQ9P0pKYkU?si=bDpARQMTmmMlvZRL",
+    "videoId": "DEQ9P0pKYkU",
+    "title": "script bot wa baru furina update v17 furina md | no enc script bot wa | furina md v17",
+    "channel": "𝙎𝙖𝙪𝙧𝙪𝙨 𝙔𝙏",
+    "thumbnail": "https://img.youtube.com/vi/DEQ9P0pKYkU/maxresdefault.jpg",
+    "publishedAt": "2026-09-19T07:33:37.047Z",
+    "duration": "",
+    "viewCount": ""
+  },
+  "script": {
+    "type": "github",
+    "path": "",
+    "externalDownload": "",
+    "size": 0
+  },
+  "pricing": "free",
+  "termux": "unknown",
+  "encryption": {
+    "status": "no",
+    "percentage": null
+  },
+  "customThumbnail": "",
+  "createdAt": "2026-09-19T07:33:39.974Z",
+  "updatedAt": "2026-09-19T07:33:39.974Z"
+}
